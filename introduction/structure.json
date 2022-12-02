@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "path": "intro",
+      "title": "What, Why and for whom?"
+    },
+    { "path": "installation",
+      "title": "Installation path and version"
+    }
+  ]
+}
